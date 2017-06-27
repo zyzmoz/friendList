@@ -1,0 +1,23 @@
+ion-card {
+    display: inline;
+}
+
+.logo{
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    border-radius: 50%;
+    border: 1px solid #6c727a;
+    box-shadow: 0px 3px 8px #6c727a ;
+}
+
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+.scroll-content{    
+    overflow-y: hidden !important;
+}
+
+
